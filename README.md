@@ -14,7 +14,7 @@ section {
     float: left;
 }
 ```
-[Link to my Assignment!](https://github.com/JacksonSabol/HW-Wireframe)
+[Link to my Assignment!](https://jacksonsabol.github.io/HW-Wireframe/)
 
 <br>
 Thank you for reading!
