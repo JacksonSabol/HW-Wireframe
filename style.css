@@ -2,18 +2,23 @@ body {
 font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 color: #777;
 background-color: #777;
-width: 960px;
+
 font-size: 18px;
+}
+
+.main-container {
+    width: 960px;
+    margin: 0 auto;
 }
 
 header {
     background-color: #ebebeb;
     color: #777;
     text-align: center;
-    width: 960px;
+    /* width: 960px; */
     height: 20px;
     padding: 20px;
-    margin-left: 20%;
+    /* margin-left: 20%; */
     margin-bottom: 10px;
     /* position: fixed;
     top: 0;
@@ -24,10 +29,10 @@ header {
     background-color: #ebebeb;
     color: #777;
     text-align: center;
-    width: 960px;
+    /* width: 960px; */
     height: 20px;
     padding: 20px;
-    margin-left: 20%;
+    /* margin-left: 20%; */
     margin-bottom: 20px;
     /* position: fixed;
     top: 10%;
@@ -36,20 +41,26 @@ header {
 
 .box-set {
     margin: 0;
-    margin-left: 20%;
+    /* margin-left: 20%; */
+    margin-bottom: 30px;
+    /* height: 400px; */
     /* position: fixed;
     top: 20%;
     left: 13%; */
 }
 
-section {
-    width: 495px;
+.section {
+    width: 40%;
     background-color: #ebebeb;
     color: #777;
     text-align: center;
     padding: 20px;
-    display: inline-block;
+    /* display: inline-block; */
     float: left;
+
+
+
+    /* float: left; */
 }
 
 .article {
@@ -57,7 +68,7 @@ section {
     background-color: #777;
     text-align: center;
     padding: 10px;
-    margin: 30px 5px 5px 5px;
+    /* margin: 30px 5px 5px 5px; */
 }
 
 .article-header {
@@ -80,11 +91,11 @@ aside {
     background-color: #ebebeb;
     color: #777;
     text-align: center;
-    width: 410px;
-    height: 182px;
-    padding: 20px;
-    display: inline-block;
-    float: right;
+    width: 30%;
+    /* height: 182px; */
+    padding: 50px;
+    /* display: inline-block; */
+    float: left;
     /* position: absolute;
     top: 0;
     left: 550px; */
@@ -97,9 +108,9 @@ footer {
     /* position: fixed;
     bottom: 41%;
     left: 13%; */
-    margin-left: 20%;
-    width: 960px;
+    /* margin-left: 20%; */
+    width: 100%;
     height: 20px;
     padding: 20px;
-    display: block;
+    display: inline-block;
 }
