@@ -31,10 +31,12 @@ header {
 .box-set {
     margin: 0;
     margin-bottom: 30px;
+    height: 200px;
 }
 
 .section {
-    width: 40%;
+    width: 50%;
+    height: 100%;
     background-color: #ebebeb;
     color: #777;
     text-align: center;
@@ -46,14 +48,15 @@ header {
     color: #ebebeb;
     background-color: #777;
     text-align: center;
-    padding: 10px;
+    padding: 20px 15px 20px 15px;
+    margin-top: 10px;
 }
 
 .article-header {
     color: #777777;
     background-color: #ebebeb;
     text-align: center;
-    padding: 10px;
+    padding: 15px 10px 15px 10px;
     margin: 5px;
 }
 
@@ -61,7 +64,7 @@ header {
     color: #777;
     background-color: #ebebeb;
     text-align: center;
-    padding: 10px;
+    padding: 15px 10px 15px 10px;
     margin: 5px;
 }
 
@@ -69,9 +72,10 @@ aside {
     background-color: #ebebeb;
     color: #777;
     text-align: center;
-    width: 30%;
-    padding: 50px;
-    float: left;
+    width: 39%;
+    height: 100%;
+    padding: 20px;
+    float: right;
 }
 
 footer {
