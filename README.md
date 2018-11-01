@@ -9,8 +9,9 @@
 
 ```css
 
-.box {
-    position: relative;
+section {
+    display: inline-block;
+    float: left;
 }
 ```
 [Link to my Assignment!](https://github.com/JacksonSabol/HW-Wireframe)
