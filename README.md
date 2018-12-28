@@ -1,6 +1,6 @@
 # Welcome!
 
-### The following project is Assignment 1 for the UCB Full Stack Coding Bootcamp
+### The following project is a practice in planning, building, and implementing wireframe designs for web applications
 
 ```html
 
